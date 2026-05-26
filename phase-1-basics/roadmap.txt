@@ -5,5 +5,5 @@
 - Conditionals (-)
 - Loops
 - Arrays
-- Strings & String Method
+- Strings & String Method (-)
 - Math Operations (-)
