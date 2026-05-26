@@ -1,0 +1,11 @@
+- Exception Handling
+- Checked vs Unchecked
+- Lamda Expressions
+- Functional Interfaces
+- Collections (List / Map / Set / ...)
+- Generic Collections
+- Annotations
+- Optionals
+- Enums
+- Wrapper Classes
+- Stream API (*)
