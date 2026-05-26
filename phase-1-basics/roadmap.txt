@@ -1,7 +1,7 @@
 - Basic Syntax (-)
 - Data Types (-)
 - Variables & Scopes (-)
-- Type Casting
+- Type Casting (-)
 - Conditionals (-)
 - Loops
 - Arrays
