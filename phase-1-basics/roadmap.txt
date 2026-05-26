@@ -3,7 +3,7 @@
 - Variables & Scopes (-)
 - Type Casting (-)
 - Conditionals (-)
-- Loops
+- Loops (-)
 - Arrays
 - Strings & String Method (-)
 - Math Operations (-)
