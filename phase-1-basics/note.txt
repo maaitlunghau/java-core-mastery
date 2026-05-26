@@ -1,0 +1,9 @@
+- Basic Syntax
+- Data Types
+- Variables & Scopes
+- Type Casting
+- Conditionals
+- Loops
+- Arrays
+- Strings & String Method
+- Math Operations
