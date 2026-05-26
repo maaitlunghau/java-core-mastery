@@ -1,0 +1,5 @@
+- Dependency Injection
+- Concurrency / Threads
+- Java Memory Model
+- I/O & File operations
+- Date & Time
