@@ -4,6 +4,6 @@
 - Type Casting (-)
 - Conditionals (-)
 - Loops (-)
-- Arrays
+- Arrays => In Progress
 - Strings & String Method (-)
 - Math Operations (-)
