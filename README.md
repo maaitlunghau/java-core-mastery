@@ -135,7 +135,7 @@ java-core-mastery/
 │   ├── InterfaceVsAbstract.java
 │   ├── InheritanceExample.java
 │   └── ...
-├── phase-3-spring-prereqs/
+├── phase-3-advanced-features/
 │   ├── exceptions/
 │   │   ├── CheckedVsUnchecked.java
 │   │   └── CustomExceptionDemo.java
