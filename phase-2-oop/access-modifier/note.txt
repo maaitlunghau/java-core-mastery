@@ -1,0 +1,25 @@
+-----------------------------------
+            KHÁI NIỆM
+                -
+          ACCESS MODIFIER
+-----------------------------------
+
+1. Package
+- Cách hiểu đơn giản nhất: Package === folder
+- Trong Java, thường được gọi là package nhiều hơn là folder (đây là lí thuyết)
+- Dùng để gom nhóm file
+- Cú pháp: package <tên_package>;
+- Ví dụ: package com.example.myapp;
+- Lưu ý: package phải là dòng đầu tiên trong file java
+
+2. Access Modifier
+- Định nghĩa quyền truy cập / sửa đổi
+- Có 4 loại:
+    + public: công khai hoàn toàn (100%)
+    + private: chỉ được dùng trong nội bộ Class mà thôi
+    + protected: thường dùng trong kế thừa (Inheritance)
+    + default: mặc định nếu không chỉ định, chỉ được dùng trong nội bộ package
+        * là public nếu như trong cùng package
+        * là private nếu như khác package
+=> public và private là 2 access modifier được dùng nhiều nhất
+- Mức độ bảo mật: public -> protected -> default -> private (best)
